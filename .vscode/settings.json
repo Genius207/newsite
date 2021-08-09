@@ -1,0 +1,4 @@
+{
+    "phpcs.executablePath": "composer.json",
+    "files.autoSave": "afterDelay"
+}
